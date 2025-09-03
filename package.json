@@ -1,0 +1,11 @@
+{
+  "name": "playwright-ui-sample",
+  "version": "1.0.0",
+  "description": "A simple Playwright test project",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0"
+  }
+}
